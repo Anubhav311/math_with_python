@@ -1,3 +1,4 @@
+#Guided project
 print(f'4 + 8 = {4 + 8}') # => 12
 
 print(f'4 + 1 + 5 = {4 + 1 + 5}') # => 10
@@ -12,3 +13,5 @@ print(f'1 + 3/4 = {1 + 3/4}') # => 1.75
 
 print(f'(1 + 3)/4 = {(1 + 3)/4}') # => 1.0
 
+
+#Exercise solution
