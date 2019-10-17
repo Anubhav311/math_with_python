@@ -10,3 +10,6 @@
 
 ![](../assets/arithmatic_2.png)
 
+## Exercises Arithmatic 3
+
+![](../assets/arithmatic_3.png)
